@@ -94,19 +94,19 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 ## GitHub Stats
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=vue&hide_border=true&hide_title=true" alt="Monisha's GitHub Stats" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=vue&hide_border=true&hide_title=true" alt="Monisha's GitHub Stats" width="100%"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=monishamekala&theme=vue&hide_border=true" alt="GitHub Streak" />
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=monishamekala&theme=vue&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=vue&hide_border=true" alt="Top Languages" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=monishamekala&theme=vue" alt="GitHub Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=monishamekala&theme=vue" alt="GitHub Activity Graph" width="100%"/>
     </td>
   </tr>
 </table>
