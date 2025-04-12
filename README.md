@@ -1,6 +1,7 @@
 ## Hey, I am Monisha 👋
 
 **Backend Developer | Cloud & Distributed Systems Enthusiast**
+
 ![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?style=flat&logo=kubernetes&logoColor=white)  
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud&nbsp;Practitioner-orange?style=flat&logo=amazon-aws&logoColor=white)
 
