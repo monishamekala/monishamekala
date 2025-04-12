@@ -91,12 +91,25 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 
 ---
 
-## 📊 GitHub Stats
-### Monisha Mekala's Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=vue&hide_border=true&hide_title=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=monishamekala&theme=vue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=vue&hide_border=true)
+## GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=vue&hide_border=true&hide_title=true" alt="Monisha's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=monishamekala&theme=vue&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=monishamekala&theme=vue" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 
   
