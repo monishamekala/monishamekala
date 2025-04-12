@@ -92,13 +92,11 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 ---
 
 ## 📊 GitHub Stats
+### Monisha Mekala's Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=vue&hide_border=true&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=monishamekala&theme=vue&hide_border=true)
 
-![Monisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=light)
-![GitHub Streak](https://streak-stats.demolab.com?user=monishamekala&theme=light&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=light)
-
-[![Monisha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monishamekala&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=vue&hide_border=true)
 
 
   
