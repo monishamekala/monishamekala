@@ -59,7 +59,27 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 - **Monitoring & Observability**:  Prometheus, Grafana, AWS CloudWatch
 - **Frontend Tools**:  React.js, HTML, CSS, Tailwind CSS, JavaScript, TypeScript
 - **Other Buzzwords I Actually Know**:  IaC, Microservices, MVC, ACID Compliance, SSR, API Rate Limiting, Batch Processing
-  
+
+----
+## Featured Projects
+
+#### 📊 [SFO Airport Traffic Visualizer](https://github.com/monishamekala/student-dropout-prediction)
+**Tech:** JavaScript, D3.js, React.js, PostgreSQL, Prisma, Node.js  
+**What’s cool?** Visualized 35K+ data points from San Francisco airport data using interactive charts and optimized backend queries. Fast, responsive, and kinda addictive to click around on 😄
+
+#### 🎓 [Student Dropout & Academic Success Prediction](https://github.com/monishamekala/student-dropout-prediction)
+**Tech:** R, Random Forest, Data Preprocessing  
+**Why it matters:** Trained a machine learning model to predict student dropouts with 83.2% accuracy and solid sensitivity/specificity scores. Education + AI = 💡
+
+#### 🍕 [Food Ordering Full-Stack App](https://github.com/monishamekala/csc648-04-fall23-team07-2)
+**Tech:** React.js, Node.js, MySQL, EC2, RDS, Twitter API  
+**What I did:** Led backend development & deployment. Built APIs, managed infrastructure on AWS, and mentored a team of 5 students. Also made the UI way more fun to use 😋
+
+#### 🧠 [Early Detection of Alzheimer’s with Blood Plasma](https://github.com/monishamekala) 
+**Tech:** Python, SciKit, Neural Networks, Feature Reduction  
+**Why it’s dope:** Boosted Alzheimer’s prediction accuracy to 92% by revamping a Bi-RNN model & reducing noisy features. Heavy stuff, made smart.
+
+---
 
 <!--
 **monishamekala/monishamekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
