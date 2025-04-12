@@ -38,17 +38,17 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 ---
 
 ## Core Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40"/>
+<p align="left">
+  <img src="https://ih1.redbubble.net/image.2875804696.2853/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Go" width="40"/>
+  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" alt="Python" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40"/>
+  <img src="https://i.pinimg.com/736x/c6/ab/c6/c6abc6dc9b99aea3aaafb12d1d35c0f4.jpg" alt="Docker" width="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*6HtxSH_ULwguHGYnGWWD4g.png" alt="Kubernetes" width="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=256" alt="AWS" width="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" alt="PostgreSQL" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnV-WyKF6mX-xvJWyq3Oo4dsHUTRBm2gFCpQ&s" alt="Prometheus" width="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" alt="Kafka" width="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/redis-plain-wordmark-icon-512x511-8n4kzl0q.png" alt="Redis" width="40"/>
 </p>
 
 - **Languages**:  Go, Python, Java, JavaScript, C++, C#, SQL
