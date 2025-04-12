@@ -61,6 +61,18 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 - **Other Buzzwords I Actually Know**:  IaC, Microservices, MVC, ACID Compliance, SSR, API Rate Limiting, Batch Processing
 
 ----
+
+## Education
+
+**San Francisco State University**  
+*Master's of Sciene in Computer Science* — GPA: 3.88 (Expected May 2025)
+
+**Vellore Institute of Technology**  
+*Bachelor's of Engineering in Information Science & Engineering*
+
+---
+
+
 ## Featured Projects
 
 #### 📊 [SFO Airport Traffic Visualizer](https://github.com/monishamekala/student-dropout-prediction)
@@ -78,16 +90,6 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 #### 🧠 [Early Detection of Alzheimer’s with Blood Plasma](https://github.com/monishamekala) 
 **Tech:** Python, SciKit, Neural Networks, Feature Reduction  
 **Why it’s dope:** Boosted Alzheimer’s prediction accuracy to 92% by revamping a Bi-RNN model & reducing noisy features. Heavy stuff, made smart.
-
----
-
-## Education
-
-**San Francisco State University**  
-*Master's of Sciene in Computer Science* — GPA: 3.88 (Expected May 2025)
-
-**Vellore Institute of Technology**  
-*Bachelor's of Engineering in Information Science & Engineering*
 
 ---
 
