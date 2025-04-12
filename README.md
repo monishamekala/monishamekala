@@ -1,6 +1,12 @@
 ## Hey, I am Monisha 👋
 
 **Backend Developer | Cloud & Distributed Systems Enthusiast**
+![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?style=flat&logo=kubernetes&logoColor=white)  
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud&nbsp;Practitioner-orange?style=flat&logo=amazon-aws&logoColor=white)
+
+🎓 Master's in Computer Science @ San Francisco State University (2023–2025)  
+💼 Backend Developer @ Associated Students, SFSU | Former Software Engineer @ LTIMindtree  
+☁️ CKAD & AWS Certified | Passionate about building scalable, secure, and performant systems
 
 <!--
 **monishamekala/monishamekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
