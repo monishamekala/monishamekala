@@ -2,7 +2,7 @@
 
 **Backend Developer | Cloud & Distributed Systems Enthusiast**
 
-![Certified Kubernetes Application Developer](https://img.shields.io/badge/CKAD-Certified-blue?style=flat&logo=kubernetes&logoColor=white)  
+![Certified Kubernetes Application Developer]([https://img.shields.io/badge/CKAD-Certified-blue?style=flat&logo=kubernetes&logoColor=white](https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color.png))  
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud&nbsp;Practitioner-orange?style=flat&logo=amazon-aws&logoColor=white)
 
 🎓 Master's in Computer Science @ San Francisco State University (2023–2025)  
