@@ -38,6 +38,19 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 ---
 
 ## Core Skills
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40"/>
+</p>
+
 - **Languages**:  Go, Python, Java, JavaScript, C++, C#, SQL
 - **Backend & Frameworks**:  Spring Boot, Node.js, REST APIs, gRPC, OAuth2
 - **Cloud & Infrastructure**:  AWS (EC2, EKS, RDS, Lambda), Terraform, Azure, GCP, Docker, Kubernetes, Nginx
@@ -46,6 +59,7 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 - **Monitoring & Observability**:  Prometheus, Grafana, AWS CloudWatch
 - **Frontend Tools**:  React.js, HTML, CSS, Tailwind CSS, JavaScript, TypeScript
 - **Other Buzzwords I Actually Know**:  IaC, Microservices, MVC, ACID Compliance, SSR, API Rate Limiting, Batch Processing
+  
 
 <!--
 **monishamekala/monishamekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
