@@ -1,4 +1,4 @@
-## Hey, I am Monisha 👋
+# Hey, I am Monisha 👋
 
 **Backend Developer | Cloud & Distributed Systems Enthusiast**
 
@@ -20,7 +20,7 @@
 
 ---
 
-### About Me
+## About Me
 
 Hey there! I'm Monisha Mekala — a curious coder, cloud enthusiast, and a firm believer that a good cup of coffee can solve most bugs ☕.
 
@@ -35,7 +35,17 @@ Hey there! I'm Monisha Mekala — a curious coder, cloud enthusiast, and a firm 
 
 When I'm not coding, you might find me exploring new cafes in San Francisco, sketching, or binge-watching sci-fi series. Let's connect and build something awesome together!
 
+---
 
+## Core Skills
+- **Languages**:  Go, Python, Java, JavaScript, C++, C#, SQL
+- **Backend & Frameworks**:  Spring Boot, Node.js, REST APIs, gRPC, OAuth2
+- **Cloud & Infrastructure**:  AWS (EC2, EKS, RDS, Lambda), Terraform, Azure, GCP, Docker, Kubernetes, Nginx
+- **DevOps & CI/CD**:  Jenkins, GitHub Actions, ArgoCD, Helm, CloudFormation
+- **Databases & Messaging**:  PostgreSQL, MySQL, MongoDB, Redis, Kafka, GraphQL
+- **Monitoring & Observability**:  Prometheus, Grafana, AWS CloudWatch
+- **Frontend Tools**:  React.js, HTML, CSS, Tailwind CSS, JavaScript, TypeScript
+- **Other Buzzwords I Actually Know**:  IaC, Microservices, MVC, ACID Compliance, SSR, API Rate Limiting, Batch Processing
 
 <!--
 **monishamekala/monishamekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
