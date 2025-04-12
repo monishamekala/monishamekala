@@ -2,8 +2,8 @@
 
 **Backend Developer | Cloud & Distributed Systems Enthusiast**
 
-![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?style=flat&logo=kubernetes&logoColor=white)  
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud&nbsp;Practitioner-orange?style=flat&logo=amazon-aws&logoColor=white)
+[![CKAD Badge]([https://images.credly.com/size/110x110/images/f88d800c-8aff-4c4c-9570-d3d5f2b3ac8b/image.png](https://miro.medium.com/v2/resize:fit:600/1*wyaFRufchgvZvfpEjACQdQ.png))](https://www.credly.com/badges/00e08bc7-a6d0-4be8-a0e0-5f10159adf6d/public_url)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud&nbsp;Practitioner-orange?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 🎓 Master's in Computer Science @ San Francisco State University (2023–2025)  
 💼 Backend Developer @ Associated Students, SFSU | Former Software Engineer @ LTIMindtree  
