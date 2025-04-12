@@ -92,27 +92,19 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 ---
 
 ## GitHub Stats
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=vue&hide_border=true&hide_title=true" alt="Monisha's GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=monishamekala&theme=vue&hide_border=true" alt="GitHub Streak" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=vue&hide_border=true" alt="Top Languages" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=monishamekala&theme=vue" alt="GitHub Activity Graph" width="100%"/>
-    </td>
-  </tr>
-</table>
+<!-- Row 1 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=vue&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=monishamekala&theme=vue&hide_border=true" width="48%" />
+</div>
 
+<br/>
 
-  
+<!-- Row 2 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=vue&hide_border=true" width="35%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monishamekala&theme=vue" width="63%" />
+</div>
 
 <!--
 **monishamekala/monishamekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
