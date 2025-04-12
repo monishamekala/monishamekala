@@ -81,6 +81,27 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 
 ---
 
+## Education
+
+**San Francisco State University**  
+*Master's of Sciene in Computer Science* — GPA: 3.88 (Expected May 2025)
+
+**Vellore Institute of Technology**  
+*Bachelor's of Engineering in Information Science & Engineering*
+
+---
+
+## 📊 GitHub Stats
+
+![Monisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monishamekala&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=monishamekala&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monishamekala&layout=compact&theme=dark)
+
+
+  
+
 <!--
 **monishamekala/monishamekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
