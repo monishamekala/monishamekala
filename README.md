@@ -1,6 +1,6 @@
 # Hey, I am Monisha 👋
 
-**Backend Developer | Cloud & Distributed Systems Enthusiast | Software Engineer**
+### Backend Developer | Cloud & Distributed Systems Enthusiast | Software Engineer
 
 <p>
   <a href="https://www.credly.com/badges/00e08bc7-a6d0-4be8-a0e0-5f10159adf6d/public_url" target="_blank" rel="noopener noreferrer">
@@ -12,8 +12,8 @@
   </a>
 </p>
 
-🎓 Master's in Computer Science @ San Francisco State University (2023–2025)  
-💼 Backend Developer @ Associated Students, SFSU | Former Software Engineer @ LTIMindtree  
+🎓 Master's of Science in Computer Science @ San Francisco State University (2023–2025)  
+💼 Backend Developer @ Associated Students, SFSU | Former Software Engineer - Backend @ LTIMindtree  
 ☁️ CKAD & AWS Certified | Passionate about building scalable, secure, and performant systems
 
 <p>📍 Based in San Francisco, CA, USA</p>
