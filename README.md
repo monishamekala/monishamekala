@@ -64,7 +64,7 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=256" alt="AWS" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" alt="PostgreSQL" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnV-WyKF6mX-xvJWyq3Oo4dsHUTRBm2gFCpQ&s" alt="Prometheus" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" alt="Kafka" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxeML6OGruYK8UzH4iF3IpejsXQwTNAjCxw&s" alt="Kafka" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/redis-plain-wordmark-icon-512x511-8n4kzl0q.png" alt="Redis" height="40"/>
 </p>
 
@@ -78,17 +78,6 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 - **Other Buzzwords I Actually Know**:  IaC, Microservices, MVC, ACID Compliance, SSR, API Rate Limiting, Batch Processing
 
 ----
-
-## Education
-
-**San Francisco State University**  
-*Master's of Sciene in Computer Science* — GPA: 3.88 (Expected May 2025)
-
-**Vellore Institute of Technology**  
-*Bachelor's of Engineering in Information Science & Engineering*
-
----
-
 
 ## Featured Projects
 
@@ -109,8 +98,6 @@ When I'm not coding, you might find me exploring new cafes in San Francisco, ske
 **Why it’s dope:** Boosted Alzheimer’s prediction accuracy to 92% by revamping a Bi-RNN model & reducing noisy features. Heavy stuff, made smart.
 
 ---
-
-
 
 <!--
 **monishamekala/monishamekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
